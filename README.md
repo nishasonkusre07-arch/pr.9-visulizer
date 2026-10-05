@@ -292,7 +292,7 @@ The project can be improved further by adding:
 
 linkedin : www.linkedin.com/in/nisha-sonkusre-283526415
 
-G-mail : nishasonkusre@gmail.com 
+g-mail : nishasonkusre@gmail.com 
 ---
 
 ## ❤️ Thank You
